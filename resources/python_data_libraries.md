@@ -1,8 +1,5 @@
-[[<- back](https://github.com/rasbt/pattern_classification)] to the pattern_classification repository
-
-
-Sebastian Raschka  
-last updated: 10/22/2014 
+Vladimir Milián Núñez  
+last updated: 10/14/2018 
 
 # Useful libraries for data science in Python
 
@@ -10,7 +7,7 @@ This is not meant to be a complete list of all Python libraries out there that a
 
 However, I would still be looking forward to additions and suggestions.  
 Please feel free to drop me a note via
-[twitter](https://twitter.com/rasbt), [email](mailto:bluewoodtree@gmail.com), or [google+](https://plus.google.com/+SebastianRaschka).
+[twitter](https://twitter.com/vmiliann) or [email](mailto:vmiliann@gmail.com).
 
 
 <br>
